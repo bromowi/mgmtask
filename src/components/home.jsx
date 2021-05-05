@@ -23,7 +23,6 @@ const Character = () => {
       setPage(page + 1);
     };
     
-    
     return (
         <div>
             <Row>
@@ -44,7 +43,7 @@ const Character = () => {
                             </Card.Body>
                             <Card.Footer>
                             <Button 
-                            
+                            href={data.url}
                             style={{
                                 backgroundColor: "black",
                                 color: " #fde84d",

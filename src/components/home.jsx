@@ -38,7 +38,7 @@ const Character = () => {
                             style={{ width:'17rem', height:'15rem'}} />
                             <Card.Body>
                             <Card.Title style={{width:'15rem', height: '60vh'}}>
-                                <p>Title: {data.title}</p>
+                                <p>Titles: {data.title}</p>
                             </Card.Title>
                             </Card.Body>
                             <Card.Footer>

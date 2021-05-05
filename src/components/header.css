@@ -1,0 +1,12 @@
+.navbar {
+    background: black;
+    color: #fde84d;
+}
+
+.logo {
+    position: relative;
+    top: 0vh;
+    right: 2vh;
+    height: 14vh;
+    bottom: 15vh;
+}
